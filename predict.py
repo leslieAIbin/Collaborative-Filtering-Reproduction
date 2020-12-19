@@ -1,6 +1,7 @@
 import var
 import numpy as np
 
+
 def predict_baseline(user, item):
     '''baseline'''
     prediction = var.item_mean[item] + var.user_mean[user] - var.all_mean
