@@ -1,0 +1,14 @@
+dataset/
+__pycache__/
+papers/
+.ipynb*
+
+*.log
+*.aux
+*.out
+*.toc
+*.gz
+*.blg
+*.bbl
+*.fls
+
